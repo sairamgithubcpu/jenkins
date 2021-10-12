@@ -1,3 +1,3 @@
 cd /C/scripts/test
-ll | grep .log 
+ls | grep .log 
 mv *.log archive
